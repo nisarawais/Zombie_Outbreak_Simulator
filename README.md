@@ -7,4 +7,4 @@ Zombie ~ health = 0, purple
 Dead zombie ~ health = -1, red (smaller circle)
 
 How to Run: 
-Run the command "solara run mesa_web_viz.py" from the ai folder. It will open up the Mesa Web Viz in the browser. You can adjust the number of agents using the slider ranging from 50 to 100. 10% of the agents are zombies. You can either click step or play to run the simulator.
+Run the command ```solara run mesa_web_viz.py``` from the ai folder. It will open up the Mesa Web Viz in the browser. You can adjust the number of agents using the slider ranging from 50 to 100. 10% of the agents are zombies. You can either click step or play to run the simulator.
